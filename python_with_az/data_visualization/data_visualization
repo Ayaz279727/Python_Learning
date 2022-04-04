@@ -1,0 +1,27 @@
+- codes to graphs
+- minds to page and plots
+
+grammer of graphics?
+   - Mapping (Data)
+   - Aesthetic (Color,shape, size)
+   - Geometric (Objects: Line, bar, points, box, map)
+   
+ matplotlib (plots, graphs and figures)
+ seaborn (heat maps, times series and other plots)  
+ 
+ categorical variable
+     - Male vs female
+     - True vs False
+     - 0 vs 1
+     - Yes vs No
+     
+continuous variable
+     - scatter
+     - statistical
+     
+Dr andrew abela (chart suggestions) 
+
+pip install cborn
+pip install matplotlib
+
+screenshort of your problem (10 sec audio)
